@@ -221,7 +221,7 @@ Param(
 
 )
 
-$WWScriptVer = '3.4.8'
+$WWScriptVer = '3.4.9'
 
 #region XAML
 #Your XAML goes here
